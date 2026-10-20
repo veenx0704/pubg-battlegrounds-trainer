@@ -1,11 +1,23 @@
-# PUBG Hack 2026 | Aimbot + ESP + Wallhack | Free Download
+# PUBG: BATTLEGROUNDS Trainer (+54) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer) · [Скачать RU](https://moggydaytrainer.com/f/pubg-battlegrounds-trainer) · [PUBG: BATTLEGROUNDS hub](https://moggydaytrainer.com/g/pubg-battlegrounds) · [PUBG: BATTLEGROUNDS news](https://moggydaytrainer.com/g/pubg-battlegrounds/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/pubg-battlegrounds-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/pubg-battlegrounds-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/pubg-battlegrounds"><img alt="Game hub" src="https://img.shields.io/badge/PUBG:%20BATTLEGROUNDS%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
 
-Queries this mirror supports in plain language: PUBG: BATTLEGROUNDS trainer, PUBG: BATTLEGROUNDS hack 2026, PUBG: BATTLEGROUNDS free cheat, PUBG: BATTLEGROUNDS aimbot (offline / custom only).
+MoggyDay hosts the official **PUBG: BATTLEGROUNDS** trainer for Windows (current, **+54** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
 
-The live **PUBG: BATTLEGROUNDS** pack on MoggyDay is the current Windows trainer with **+many** toggles (PUBG hack, aimbot, wallhack, no recoil. MoggyDay trainer +54 for offline — not ranked.). People search `PUBG: BATTLEGROUNDS trainer`, `PUBG: BATTLEGROUNDS hack 2026` and `PUBG: BATTLEGROUNDS free cheat` and should land on the file page, not a random Discord zip. This GitHub repo is a documented mirror: screenshots, option notes and the official links. The download button is only on [https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer). Offline / custom / workshop — not ranked matchmaking.
+## About PUBG: BATTLEGROUNDS
+
+PUBG: BATTLEGROUNDS is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 578080).
+
+## About the MoggyDay trainer
+
+The live PUBG: BATTLEGROUNDS pack on MoggyDay is the current Windows trainer with +54 toggles (God Mode (Offline), Infinite Health, Infinite Boost, Infinite Energy Drink, Infinite Painkillers). People search `PUBG: BATTLEGROUNDS trainer`, `PUBG: BATTLEGROUNDS hack 2026` and `PUBG: BATTLEGROUNDS free cheat` and should land on the file page, not a random Discord zip. This GitHub repo is a documented mirror: screenshots, option notes and the official links. The download button is only on [https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer). Offline / custom / workshop — not ranked matchmaking.
 
 ## Screenshots
 
@@ -21,89 +33,139 @@ Shots from the live [PUBG: BATTLEGROUNDS trainer page](https://moggydaytrainer.c
 
 [![PUBG: BATTLEGROUNDS options 3](https://moggydaytrainer.com/media/shots/hub-pubg-battlegrounds/fn-3.png)](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer)
 
-## Who this is for
+## Trainer features (+54)
 
-This PUBG: BATTLEGROUNDS page is for people practicing in offline maps, custom lobbies, the firing range or a workshop mode. It is **not** a ranked/undetected product page. If you need the trainer as a single-player style tool for your own session, MoggyDay is the source. If you want to ruin official matchmaking, this listing will not help you — and we do not host that.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | God Mode (Offline) | Player | Num 1 | Toggle |
+| 2 | Infinite Health | Player | Num 2 | Toggle |
+| 3 | Infinite Boost | Player | Num 3 | Toggle |
+| 4 | Infinite Energy Drink | Items | Num 4 | Toggle |
+| 5 | Infinite Painkillers | Items | Num 5 | Toggle |
+| 6 | Infinite Adrenaline | Items | Num 6 | Toggle |
+| 7 | Infinite Medkits | Items | Num 7 | Toggle |
+| 8 | Infinite First Aid | Items | Num 8 | Toggle |
+| 9 | Infinite Bandages | Items | Num 9 | Toggle |
+| 10 | Infinite Ammo | Combat | Num 0 | Toggle |
+| 11 | No Reload | Combat | Num . | Toggle |
+| 12 | No Recoil | Combat | Num * | Toggle |
+| 13 | Perfect Accuracy | Combat | Num + | Toggle |
+| 14 | Infinite Throwables | Weapons | Num - | Toggle |
+| 15 | Unlock All Weapons | Unlocks | Ctrl+Num 1 | Toggle |
+| 16 | Unlock All Attachments | Unlocks | Ctrl+Num 2 | Toggle |
+| 17 | Super Loot | Loot | Ctrl+Num 3 | Toggle |
+| 18 | 100% Airdrop | Loot | Ctrl+Num 4 | Toggle |
+| 19 | Always Level 3 Gear | Loot | Ctrl+Num 5 | Toggle |
+| 20 | No Circle Damage | Circle | Ctrl+Num 6 | Toggle |
+| 21 | Freeze Circle | Circle | Ctrl+Num 7 | Toggle |
+| 22 | Skip Circle Phase | Circle | Ctrl+Num 8 | Toggle |
+| 23 | Infinite Vehicle Fuel | Vehicle | Ctrl+Num 9 | Toggle |
+| 24 | Unlock All Vehicles | Unlocks | Ctrl+Num 0 | Toggle |
+| 25 | No Vehicle Damage | Vehicle | Ctrl+Num . | Toggle |
+| 26 | Super Speed | Movement | Ctrl+Num * | Toggle |
+| 27 | No Fall Damage | Movement | Ctrl+Num + | Toggle |
+| 28 | No Clip | Movement | Ctrl+Num - | Toggle |
+| 29 | One Hit Kill | Combat | Alt+Num 1 | Toggle |
+| 30 | Freeze Bots | Practice | Alt+Num 2 | Toggle |
+| 31 | Easy Bots | Practice | Alt+Num 3 | Toggle |
+| 32 | Night Vision | World | Alt+Num 4 | Toggle |
+| 33 | Reveal Loot (Offline) | Loot | Alt+Num 5 | Toggle |
+| 34 | Unlock All Maps | Unlocks | Alt+Num 6 | Toggle |
+| 35 | Unlock Erangel / Miramar / Taego | Unlocks | Alt+Num 7 | Toggle |
+| 36 | Infinite Backpack Space | Items | Alt+Num 8 | Toggle |
+| 37 | Max Stack Size | Items | Alt+Num 9 | Toggle |
+| 38 | Freeze Time | Time | Alt+Num 0 | Toggle |
+| 39 | Set Game Speed | Time | Alt+Num . | Speed |
+| 40 | Slow Motion | Time | Alt+Num * | Toggle |
+| 41 | Save Position | Misc | Alt+Num + | Toggle |
+| 42 | Load Position | Misc | Alt+Num - | Toggle |
+| 43 | Instant Parachute Land | Movement | Shift+F1 | Toggle |
+| 44 | Unlock All Crates (Local) | Unlocks | Shift+F2 | Toggle |
+| 45 | Give AWM | Weapons | Shift+F3 | Toggle |
+| 46 | Give Groza | Weapons | Shift+F4 | Toggle |
+| 47 | Give Mk14 | Weapons | Shift+F5 | Toggle |
+| 48 | Infinite 5.56 / 7.62 / 9mm | Weapons | Shift+F6 | Toggle |
+| 49 | No Bluezone Shrink | Circle | Shift+F7 | Toggle |
+| 50 | Always Sunny | World | Shift+F8 | Toggle |
+| 51 | Unlock All Outfits (Local) | Unlocks | Shift+F9 | Toggle |
+| 52 | Infinite Pan Durability | Weapons | Shift+F10 | Toggle |
+| 53 | Instant Heal | Player | Shift+F11 | Toggle |
+| 54 | No Lean Sway | Combat | Shift+F12 | Toggle |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer) |
-| Русский трейнер | [https://moggydaytrainer.com/f/pubg-battlegrounds-trainer](https://moggydaytrainer.com/f/pubg-battlegrounds-trainer) |
-| Game hub | [https://moggydaytrainer.com/g/pubg-battlegrounds](https://moggydaytrainer.com/g/pubg-battlegrounds) |
-| Trainers tab | [https://moggydaytrainer.com/g/pubg-battlegrounds/trainers](https://moggydaytrainer.com/g/pubg-battlegrounds/trainers) |
-| News | [https://moggydaytrainer.com/g/pubg-battlegrounds/news](https://moggydaytrainer.com/g/pubg-battlegrounds/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
+### Tips
 
-## PUBG: BATTLEGROUNDS trainer current: +many options
+- **God Mode (Offline)** — Usually the first toggle people enable on a PUBG: BATTLEGROUNDS trainer.
+- **Infinite Health** — Check this after every PUBG: BATTLEGROUNDS patch — values often shift.
+- **Infinite Boost** — Leave it off if you only want a mild resource boost.
+- **Infinite Energy Drink** — Pairs with the other combat toggles on the PUBG: BATTLEGROUNDS page.
+- **Infinite Painkillers** — Use it to skip a grind, then turn it back off.
+- **Infinite Adrenaline** — Read the live hotkey next to this name on MoggyDay.
+- **Infinite Medkits** — Game-specific: the PUBG: BATTLEGROUNDS listing explains the exact effect.
+- **Infinite First Aid** — If two options overlap, enable one and test in a safe save.
+- **Infinite Bandages** — Keep a screenshot of your preferred set from the site page.
+- **Infinite Ammo** — Not every option is safe in every mission — test first.
+- **No Reload** — The RU page uses the same toggle order.
+- **No Recoil** — Ask in comments on the trainer page if a name is unclear.
+- **Perfect Accuracy** — Usually the first toggle people enable on a PUBG: BATTLEGROUNDS trainer.
+- **Infinite Throwables** — Check this after every PUBG: BATTLEGROUNDS patch — values often shift.
+- **Unlock All Weapons** — Leave it off if you only want a mild resource boost.
+- **Unlock All Attachments** — Pairs with the other combat toggles on the PUBG: BATTLEGROUNDS page.
+- **Super Loot** — Use it to skip a grind, then turn it back off.
+- **100% Airdrop** — Read the live hotkey next to this name on MoggyDay.
+- **Always Level 3 Gear** — Game-specific: the PUBG: BATTLEGROUNDS listing explains the exact effect.
+- **No Circle Damage** — If two options overlap, enable one and test in a safe save.
+- **Freeze Circle** — Keep a screenshot of your preferred set from the site page.
+- **Skip Circle Phase** — Not every option is safe in every mission — test first.
+- **Infinite Vehicle Fuel** — The RU page uses the same toggle order.
+- **Unlock All Vehicles** — Ask in comments on the trainer page if a name is unclear.
+- **No Vehicle Damage** — Usually the first toggle people enable on a PUBG: BATTLEGROUNDS trainer.
+- **Super Speed** — Check this after every PUBG: BATTLEGROUNDS patch — values often shift.
+- **No Fall Damage** — Leave it off if you only want a mild resource boost.
+- **No Clip** — Pairs with the other combat toggles on the PUBG: BATTLEGROUNDS page.
+- **One Hit Kill** — Use it to skip a grind, then turn it back off.
+- **Freeze Bots** — Read the live hotkey next to this name on MoggyDay.
+- **Easy Bots** — Game-specific: the PUBG: BATTLEGROUNDS listing explains the exact effect.
+- **Night Vision** — If two options overlap, enable one and test in a safe save.
+- **Reveal Loot (Offline)** — Keep a screenshot of your preferred set from the site page.
+- **Unlock All Maps** — Not every option is safe in every mission — test first.
+- **Unlock Erangel / Miramar / Taego** — The RU page uses the same toggle order.
+- **Infinite Backpack Space** — Ask in comments on the trainer page if a name is unclear.
+- **Max Stack Size** — Usually the first toggle people enable on a PUBG: BATTLEGROUNDS trainer.
+- **Freeze Time** — Check this after every PUBG: BATTLEGROUNDS patch — values often shift.
+- **Set Game Speed** — Leave it off if you only want a mild resource boost.
+- **Slow Motion** — Pairs with the other combat toggles on the PUBG: BATTLEGROUNDS page.
+- **Save Position** — Use it to skip a grind, then turn it back off.
+- **Load Position** — Read the live hotkey next to this name on MoggyDay.
+- **Instant Parachute Land** — Game-specific: the PUBG: BATTLEGROUNDS listing explains the exact effect.
+- **Unlock All Crates (Local)** — If two options overlap, enable one and test in a safe save.
+- **Give AWM** — Keep a screenshot of your preferred set from the site page.
+- **Give Groza** — Not every option is safe in every mission — test first.
+- **Give Mk14** — The RU page uses the same toggle order.
+- **Infinite 5.56 / 7.62 / 9mm** — Ask in comments on the trainer page if a name is unclear.
+- **No Bluezone Shrink** — Usually the first toggle people enable on a PUBG: BATTLEGROUNDS trainer.
+- **Always Sunny** — Check this after every PUBG: BATTLEGROUNDS patch — values often shift.
+- **Unlock All Outfits (Local)** — Leave it off if you only want a mild resource boost.
+- **Infinite Pan Durability** — Pairs with the other combat toggles on the PUBG: BATTLEGROUNDS page.
+- **Instant Heal** — Use it to skip a grind, then turn it back off.
+- **No Lean Sway** — Read the live hotkey next to this name on MoggyDay.
 
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
+## Download
 
-| # | Option |
-|---|---|
-| 1 | PUBG hack |
-| 2 | aimbot |
-| 3 | wallhack |
-| 4 | no recoil. MoggyDay trainer +54 for offline — not ranked. |
+1. Open **[PUBG Hack 2026 | Aimbot + ESP + Wallhack | Free Download](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/pubg-battlegrounds-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/pubg-battlegrounds-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a PUBG: BATTLEGROUNDS update, reload the same URL — the slug `/f/pubg-battlegrounds-trainer` never moves.
 
-### What those toggles are for
+## Install (Windows)
 
-- **PUBG hack** — Usually the first toggle people enable on a PUBG: BATTLEGROUNDS trainer.
-- **aimbot** — Check this after every PUBG: BATTLEGROUNDS patch — values often shift.
-- **wallhack** — Leave it off if you only want a mild resource boost.
-- **no recoil. MoggyDay trainer +54 for offline — not ranked.** — Pairs with the other combat toggles on the PUBG: BATTLEGROUNDS page.
+1. Close PUBG: BATTLEGROUNDS before trying a new build.
+2. Run only files from MoggyDay for `pubg-battlegrounds-trainer`.
+3. Enable a few toggles first, not the entire +54 list.
+4. Keep a backup save before resource or progression edits.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer). GitHub stays a summary.
-
-## How to download
-
-1. Open **[PUBG Hack 2026 | Aimbot + ESP + Wallhack | Free Download](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer)** or **[PUBG Hack 2026 | Aimbot + ESP + Wallhack | скачать](https://moggydaytrainer.com/f/pubg-battlegrounds-trainer)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a PUBG: BATTLEGROUNDS patch, reload the same URL. We do not publish binaries as GitHub Releases.
-
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `pubg-battlegrounds-trainer.exe`.
-
-## What the screenshots show
-
-The first image is the PUBG: BATTLEGROUNDS cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer).
-
-## Install notes (Windows)
-
-1. Close PUBG: BATTLEGROUNDS before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `pubg-battlegrounds-trainer`.
-3. Start the trainer, then start PUBG: BATTLEGROUNDS (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +many list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the current heading is older than the PUBG: BATTLEGROUNDS build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/pubg-battlegrounds-trainer` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a PUBG: BATTLEGROUNDS update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**PUBG Hack 2026 | Aimbot + ESP + Wallhack | скачать**
-
-PUBG hack, free hack, free cheat, aimbot, wallhack, ESP, no recoil. MoggyDay trainer +54 for offline — not ranked.
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/pubg-battlegrounds-trainer
-- Хаб PUBG: BATTLEGROUNDS: https://moggydaytrainer.com/g/pubg-battlegrounds
-- Новости: https://moggydaytrainer.com/g/pubg-battlegrounds/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -122,19 +184,23 @@ Comment on the trainer page or write in [PUBG: BATTLEGROUNDS news](https://moggy
 **Will this GitHub page stay up if the file updates?**
 Yes. The slug `/f/pubg-battlegrounds-trainer` is stable. We refresh this README when the site heading or shots change.
 
-## Search notes
 
-`pubg hack`, `pubg free hack`, `pubg free cheat`, `pubg cheat`, `pubg cheats`, `pubg aimbot`, `pubg free aimbot`, `pubg wallhack`, `pubg free wallhack`, `pubg esp`, `pubg free esp`, `pubg no recoil`, `pubg undetected`, `pubg cheat download`, `pubg hack download`, `pubg trainer`
+## Search terms (English)
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+`pubg trainer`, `pubg cheats`, `pubg hack`, `pubg cheat`, `pubg aimbot`, `pubg esp`, `pubg wallhack`, `pubg no recoil`, `pubg loot esp`, `pubg free hack`, `pubg free cheat`, `pubg free aimbot`, `pubg free wallhack`, `pubg free esp`
+
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/pubg-battlegrounds-trainer](https://moggydaytrainer.com/f/pubg-battlegrounds-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/pubg-battlegrounds-trainer](https://moggydaytrainer.com/zh/f/pubg-battlegrounds-trainer)
 
 ## Other MoggyDay trainers
 
-- ![DOOM: The Dark Ages cover](https://moggydaytrainer.com/media/covers/doom-the-dark-ages-1bbcc6ff7b.jpg) [DOOM: The Dark Ages "Trainer +22: God Mode, Ammo, One Hit, Shield" [v2.1.0]](https://moggydaytrainer.com/en/f/doom-dark-ages-trainer) · [RU](https://moggydaytrainer.com/f/doom-dark-ages-trainer)
-- ![CONTROL Resonant cover](https://moggydaytrainer.com/media/covers/control-resonant-e94806b1a9.jpg) [CONTROL Resonant "Trainer +27: Health, Power, Source, Fly, Teleport" [v1.1.0]](https://moggydaytrainer.com/en/f/control-resonant-trainer) · [RU](https://moggydaytrainer.com/f/control-resonant-trainer)
-- ![SILENT HILL: Townfall cover](https://moggydaytrainer.com/media/covers/silent-hill-townfall-8f4b4ab3b6.jpg) [SILENT HILL: Townfall trainer +42: immortal, items, enemies, time [v1.0.0]](https://moggydaytrainer.com/en/f/silent-hill-townfall-trainer) · [RU](https://moggydaytrainer.com/f/silent-hill-townfall-trainer)
-- ![Broken Arrow cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604270/6b662a8d43880116f843ff401cf052b5bc2c0973/library_capsule_2x.jpg) [Broken Arrow trainer +40: command points, units, recon and ammo [v1.0.0]](https://moggydaytrainer.com/en/f/broken-arrow-trainer) · [RU](https://moggydaytrainer.com/f/broken-arrow-trainer)
+- ![Crimson Desert cover](https://moggydaytrainer.com/media/covers/crimson-desert-ea22df97a8.jpg) [Crimson Desert Enhanced "Trainer +11: HP, Horse, Spirit, Teleport, Contribution" [v2.1.0]](https://moggydaytrainer.com/en/f/crimson-desert-trainer) · [RU](https://moggydaytrainer.com/f/crimson-desert-trainer)
+- ![Project Zomboid cover](https://moggydaytrainer.com/media/covers/project-zomboid-67ab977bdd.jpg) [Project Zomboid "Trainer +28: God Mode, Skills, Build Cheat, NoClip" [v2.1.0]](https://moggydaytrainer.com/en/f/project-zomboid-trainer-moggyday) · [RU](https://moggydaytrainer.com/f/project-zomboid-trainer-moggyday)
+- ![Trails in the Sky 2nd Chapter cover](https://moggydaytrainer.com/media/covers/trails-in-the-sky-2nd-chapter-e929152a75.jpg) [Trails in the Sky 2nd Chapter "Trainer +55: HP, EP, Mira, Sepith, Arts" [v1.2.0]](https://moggydaytrainer.com/en/f/trails-in-the-sky-2nd-chapter-trainer) · [RU](https://moggydaytrainer.com/f/trails-in-the-sky-2nd-chapter-trainer)
+- ![Palworld cover](https://moggydaytrainer.com/media/covers/palworld-c1225eb15a.jpg) [Palworld trainer +63: pals, capture, freeze enemies [v1.0.0]](https://moggydaytrainer.com/en/f/palworld-trainer) · [RU](https://moggydaytrainer.com/f/palworld-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `PUBG: BATTLEGROUNDS trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer](https://moggydaytrainer.com/en/f/pubg-battlegrounds-trainer). Screenshots hotlink MoggyDay `/media/` assets.
