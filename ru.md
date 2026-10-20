@@ -14,10 +14,60 @@ PUBG hack, free hack, free cheat, aimbot, wallhack, ESP, no recoil. MoggyDay tra
 
 ## Опции
 
-- PUBG hack
-- aimbot
-- wallhack
-- no recoil. MoggyDay trainer +54 for offline — not ranked.
+- God Mode (Offline)
+- Infinite Health
+- Infinite Boost
+- Infinite Energy Drink
+- Infinite Painkillers
+- Infinite Adrenaline
+- Infinite Medkits
+- Infinite First Aid
+- Infinite Bandages
+- Infinite Ammo
+- No Reload
+- No Recoil
+- Perfect Accuracy
+- Infinite Throwables
+- Unlock All Weapons
+- Unlock All Attachments
+- Super Loot
+- 100% Airdrop
+- Always Level 3 Gear
+- No Circle Damage
+- Freeze Circle
+- Skip Circle Phase
+- Infinite Vehicle Fuel
+- Unlock All Vehicles
+- No Vehicle Damage
+- Super Speed
+- No Fall Damage
+- No Clip
+- One Hit Kill
+- Freeze Bots
+- Easy Bots
+- Night Vision
+- Reveal Loot (Offline)
+- Unlock All Maps
+- Unlock Erangel / Miramar / Taego
+- Infinite Backpack Space
+- Max Stack Size
+- Freeze Time
+- Set Game Speed
+- Slow Motion
+- Save Position
+- Load Position
+- Instant Parachute Land
+- Unlock All Crates (Local)
+- Give AWM
+- Give Groza
+- Give Mk14
+- Infinite 5.56 / 7.62 / 9mm
+- No Bluezone Shrink
+- Always Sunny
+- Unlock All Outfits (Local)
+- Infinite Pan Durability
+- Instant Heal
+- No Lean Sway
 
 ## Куда жать
 
